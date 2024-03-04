@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="femtograd",
-    version="0.0.3",
+    version="0.0.5",
     author="German Gonzalez Karpath",
     author_email="ghgv@yahoo.com",
     description="A tiny scalar-valued autograd engine copied from Karpathy's.",

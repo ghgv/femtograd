@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: femtograd
-Version: 0.0.3
+Version: 0.0.5
 Summary: A tiny scalar-valued autograd engine copied from Karpathy's.
 Home-page: https://github.com/ghgv/femtograd
 Author: German Gonzalez Karpath
