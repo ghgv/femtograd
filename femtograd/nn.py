@@ -1,3 +1,6 @@
+import random
+from femtograd.femtograd import value
+
 class Neuron:
     
     def __init__(self,nin): #nin = number of inputs
